@@ -1,14 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
-  "packages": {
-    ".": {
-      "release-type": "node",
-      "extra-label": "Ready to Merge",
-      "changelog-host": "https://github.mpi-internal.com",
-      "include-v-in-tag": false,
-      "pull-request-title-pattern": "[skip ci] chore${scope}: release${component} ${version}",
-      "group-pull-request-title-pattern": "[skip ci] chore${scope}: release${component} ${version}"
-    }
-  }
+  "include-v-in-tag": false,
+  "pull-request-title-pattern": "[skip ci] chore${scope}: release${component} ${version}",
+  "group-pull-request-title-pattern": "[skip ci] chore${scope}: release${component} ${version}"
 }
-
