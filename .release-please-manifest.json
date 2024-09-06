@@ -1,6 +1,6 @@
 {
+
   "include-v-in-tag": false,
   "pull-request-title-pattern": "[skip ci] chore${scope}: release${component} ${version}",
-  "group-pull-request-title-pattern": "[skip ci] chore${scope}: release${component} ${version}",
-  ".": "1.0.5"
+  "group-pull-request-title-pattern": "[skip ci] chore${scope}: release${component} ${version}"
 }
