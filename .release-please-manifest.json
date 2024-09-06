@@ -1,6 +1,10 @@
 {
-
-  "include-v-in-tag": false,
-  "pull-request-title-pattern": "[skip ci] chore${scope}: release${component} ${version}",
-  "group-pull-request-title-pattern": "[skip ci] chore${scope}: release${component} ${version}"
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
+  "packages": {
+    ".": {
+      "include-v-in-tag": false,
+      "pull-request-title-pattern": "[skip ci] chore${scope}: release${component} ${version}",
+      "group-pull-request-title-pattern": "[skip ci] chore${scope}: release${component} ${version}"
+    }
+  }
 }
