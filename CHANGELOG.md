@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.2](https://github.com/ale-grosselle/play-release-please/compare/v1.0.1...v1.0.2) (2024-09-06)
+
+
+### Bug Fixes
+
+* config ([382061a](https://github.com/ale-grosselle/play-release-please/commit/382061a6e00df096c0305a7a3ff2d48a4c39823c))
+* remove none ([96ab469](https://github.com/ale-grosselle/play-release-please/commit/96ab469a81f318e87a7dcc10cb04f8036cc09280))
+
 ## [1.0.1](https://github.com/ale-grosselle/play-release-please/compare/v1.0.0...v1.0.1) (2024-09-06)
 
 
