@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5](https://github.com/ale-grosselle/play-release-please/compare/v1.0.4...v1.0.5) (2024-09-06)
+
+
+### Bug Fixes
+
+* ccss ([878aca9](https://github.com/ale-grosselle/play-release-please/commit/878aca90afcfd9df64ef2b5d6d8e372ec244cbf7))
+
 ## [1.0.4](https://github.com/ale-grosselle/play-release-please/compare/v1.0.3...v1.0.4) (2024-09-06)
 
 
