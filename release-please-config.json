@@ -3,6 +3,7 @@
   "release-type": "node",
   "include-v-in-tag": false,
   "pull-request-title-pattern": "[skip ci] chore${scope}: release ${version}",
+  "extra-label": "skynet:update:rebase",
   "packages": {
     ".": {}
   }
