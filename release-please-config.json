@@ -4,5 +4,9 @@
   "include-v-in-tag": false,
   "pull-request-title-pattern": "[skip ci] chore${scope}: release ${version} for ${component}",
   "extra-label": "skynet:update:rebase",
-  "include-component-in-tag": false
+  "include-component-in-tag": false,
+  "packages": {
+    ".": {
+    }
+  }
 }
