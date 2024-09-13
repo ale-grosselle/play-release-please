@@ -6,8 +6,8 @@
   "extra-label": "skynet:update:rebase",
   "include-component-in-tag": false,
   "packages": {
-    ".": {
-      "release-type": "node"
-    }
+    ".": {}
   }
 }
+
+
