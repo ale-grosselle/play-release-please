@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
   "release-type": "node",
   "include-v-in-tag": false,
-  "pull-request-title-pattern": "[skip ci] chore${scope}: release ${version}",
+  "pull-request-title-pattern": "[skip ci] chore${scope}: release ${version} for ${component}",
   "extra-label": "skynet:update:rebase",
   "include-component-in-tag": false,
   "packages": {
